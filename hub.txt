@@ -1,0 +1,5 @@
+hub PvulgarisHub
+shortLabel Pvulgaris Genome
+longLabel Phaseolus vulgaris Genome Assembly
+genomesFile genomes.txt
+email wei.dai@ndsu.edu
