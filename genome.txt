@@ -1,0 +1,2 @@
+genome pvulgaris
+twoBitPath Pvulgaris_442_v2.0.2bit
